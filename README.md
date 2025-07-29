@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Bhupesh392/Bhupesh392/main/ChatGPT Image Jul 29, 2025, 10_34_10 PM.png" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Bhupesh392/Bhupesh392/main/ChatGPT Image Jul 29, 2025, 10_34_10 PM.png" width="50%"/>
   <h1 align="center">Hey there 👋, I’m <span style="color:#00FFFF">Bhupesh Sharma</span></h1>
   <h3 align="center">🚀 Full Stack Developer | 🤖 AI Explorer | 💻 Software Sorcerer | 🌐 Cloud-native Engineer</h3>
 </div>
